@@ -13,7 +13,7 @@
 	<artifactId>hotel-webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hotel-webapp</name>
-	<description>Demo project for LinkedIn Learning Course</description>
+	<description>Demo project for Dinesh Learning Course</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
